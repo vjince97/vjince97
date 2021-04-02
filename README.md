@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vjince97
-- 👀 I’m interested in ...Blockchain, gaming, and product design
-- 🌱 I’m currently learning ...Google Analytics
+- 👀 I’m interested in ...Blockchain, gaming, product design, AI/ML, Deeplearning, and Gaming
+- 🌱 I’m currently learning ...Google Analytics and Git
 - 💞️ I’m looking to collaborate on ...learning new things
 - 📫 How to reach me ...https://www.linkedin.com/in/mauroblardony-letsconnect/
 
